@@ -1,4 +1,4 @@
-![Header](./github-header-image-res.png)
+![Header](./github-header-image-res2.png)
 
 <h1 align="center">Hi 👋, I'm Nikita Zhukov</h1>
 <h3 align="center">A Python developer from Russia</h3>
