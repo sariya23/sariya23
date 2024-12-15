@@ -1,7 +1,7 @@
 ![Header](./github-header-image-res2.png)
 
 <h1 align="center">Hi 👋, I'm Nikita </h1>
-<h3 align="center">A Python/Go developer from Russia</h3>
+<h3 align="center">A Go developer from Russia</h3>
 
 <img align='right' alt='Coding' width='400' src='https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif'>
 
