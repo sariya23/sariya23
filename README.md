@@ -1,7 +1,7 @@
 ![Header](./github-header-image-res2.png)
 
-<h1 align="center">Hi 👋, I'm Nikita </h1>
-<h3 align="center">A Go developer from Russia :ru:</h3>
+<h1 align="center">Хало</h1>
+<h3 align="center">Люблю информационные технологии :ru:</h3>
 
 <img align='right' alt='Coding' width='400' src='https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif'>
 
