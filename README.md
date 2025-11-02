@@ -1,16 +1,21 @@
-![Header](./github-header-image-res2.png)
+<h1>Всем привет! Меня зовут Никита
+  <img align='right' alt='Coding' height='32' src='https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif'>
+</h1>
 
-<h1 align="center">Хало</h1>
-<h3 align="center">Люблю информационные технологии :ru:</h3>
+Я - инженер-разработчик из России 🇷🇺.
 
-<img align='right' alt='Coding' width='400' src='https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif'>
+### 💻 Мой стэк
+</br>
+- <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" height="20"/> &nbsp; Разработка gRPC и REST серсивов
+</br>
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20"/> &nbsp; Написание автотестов, скриптов, работа с данными
+</br>
+- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20"/> &nbsp; **PostgreSQL**
+</br>
+- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="20"/> &nbsp; **Docker**
+</br>
+- <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka" height="20"/> &nbsp; **Apache Kafka**
+</br>
+- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" height="20"/> &nbsp; **Kubernetes**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.behance.net/sariya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nikita zhukov" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sariya" height="30" width="40" /></a>
-</p>
 
-
-
-<img src="https://www.codewars.com/users/Sariya/badges/large" alt="Codewars">
