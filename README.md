@@ -1,5 +1,5 @@
 <h1>Всем привет! Меня зовут Никита
-  <img align='right' alt='Coding' height='32' src='https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif'>
+  <img align='right' alt='Coding' height='32' width='35' src='https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif'>
 </h1>
 
 Я - инженер-разработчик из России 🇷🇺.
@@ -24,5 +24,6 @@
 ### Прочие проекты
 
 - [Tender REST API](https://github.com/sariya23/tender_api). API для взаимодействия с тендерами
+- [PR Mange Service](https://github.com/sariya23/manage_pr_service). API для управление командами и Pull Request'ами
 - [memali](https://github.com/sariya23/memali). Консольная утилита для Go, которая сортирует поля структуры в соответсвии с концепцией выравнивания
 
