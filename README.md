@@ -1,10 +1,10 @@
-<h1>Всем привет! Меня зовут Никита
+<h1>Hi there! My name is Nikita!
   <img align='right' alt='Coding' height='32' width='35' src='https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif'>
 </h1>
 
-Я - инженер-разработчик из России 🇷🇺.
+I'm a software engineer from Russia 🇷🇺.
 
-### 💻 Технический стэк
+### 💻 My stack
 
 - <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" height="20"/>
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20"/>
@@ -12,16 +12,13 @@
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="20"/>
 - <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka" height="20"/>
 
-## Мои проекты
+## My projects
 
 ### Gamehub
-Основной проект над который я работаю - это GameHub. 
+Gamehub is the main project I'm developing. The idea is simple: systematize your game experience!
 
-Систематизируйте игровой процесс тут: https://gamehub-online.ru
+Try it: https://gamehub-online.ru
 
-### Прочие проекты
-
-- [Tender REST API](https://github.com/sariya23/tender_api). API для взаимодействия с тендерами
-- [PR Mange Service](https://github.com/sariya23/manage_pr_service). API для управление командами и Pull Request'ами
-- [memali](https://github.com/sariya23/memali). Консольная утилита для Go, которая сортирует поля структуры в соответсвии с концепцией выравнивания
+### Other projects
+- [memali](https://github.com/sariya23/memali). Go CLI tool for struct field alignment
 
